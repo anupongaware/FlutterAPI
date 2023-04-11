@@ -2,25 +2,25 @@
   {
     "title": "What is computer?",
     "subtitle": "an electronic device for storing and processing data, typically in binary form.",
-    "image_url": "https://github.com/anupongaware/FlutterAPI/blob/main/01.jpg?raw=true",
+    "image_url": "https://raw.githubusercontent.com/anupongaware/FlutterAPI/main/01.jpg",
     "detail": "A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations (computation) automatically. Modern digital electronic computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks. A computer system is a nominally complete computer that includes the hardware, operating system (main software), and peripheral equipment needed and used for full operation. This term may also refer to a group of computers that are linked and function together, such as a computer network or computer cluster. "
   },
   {
     "title": "Let's coding",
     "subtitle": "Coding Kits for Boys & Girls aged 8-15. Learn real code the fun way.",
-    "image_url": "https://github.com/anupongaware/FlutterAPI/blob/main/02.jpg?raw=true",
+    "image_url": "https://raw.githubusercontent.com/anupongaware/FlutterAPI/main/02.jpg",
     "detail": "Computer programming is the process of performing a particular computation (or more generally, accomplishing a specific computing result), usually by designing and building an executable computer program. Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a chosen programming language, commonly referred to as coding).[1][2] The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit. The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem. Proficient programming thus usually requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic. "
   },
   {
     "title": "Services",
     "subtitle": "We have a lot of services for you. Let's explode.",
-    "image_url": "https://github.com/anupongaware/FlutterAPI/blob/main/03.jpg?raw=true",
+    "image_url": "https://raw.githubusercontent.com/anupongaware/FlutterAPI/main/03.jpg",
     "detail": "There are many IT services that can benefit businesses and help them operate smoothly and efficiently. Many of these services allow employees to interact with technology that helps them perform their on-the-job duties or communicate with each other. Some of the most common types of IT services used in businesses include:"
   },
   {
     "title": "What is Flutter?",
     "subtitle": "Flutter is an open source framework by Google for building beautiful.",
-    "image_url": "https://github.com/anupongaware/FlutterAPI/blob/main/04.jpg?raw=true",
+    "image_url": "https://raw.githubusercontent.com/anupongaware/FlutterAPI/main/04.jpg",
     "detail": "Flutter is a free and open-source mobile UI framework created by Google and released in May 2017. In a few words, it allows you to create a native mobile application with only one codebase. This means that you can use one programming language and one codebase to create two different apps (for iOS and Android)."
   }
 ]
